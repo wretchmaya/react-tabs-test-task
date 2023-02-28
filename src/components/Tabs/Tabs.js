@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './Tabs.scss';
-import { TabContent } from './Tab/TabContent';
+import { TabContent } from './TabContent/TabContent';
 import { TabsListItem } from './TabsListItem/TabsListItem';
 
 const Tabs = ({ tabs }) => {
